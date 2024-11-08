@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
+
+# React files
+client/node_modules/
+client/build/
+
+# Dependency directories
+client/package-lock.json
+client/yarn.lock
+package-lock.json
+yarn.lock
+
+# Files directory (if you want to keep uploaded/generated files out of version control)
+files/
+
+# Coverage reports
+coverage/
+*.lcov
